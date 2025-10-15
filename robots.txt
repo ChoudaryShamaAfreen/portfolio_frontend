@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myportfolioonweb.netlify.app/sitemap.xml
